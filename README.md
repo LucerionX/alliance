@@ -1,4 +1,3 @@
----
 
 # 🌐 Alliance Micro Node
 
@@ -35,5 +34,3 @@
 > **⚠️ Penting**: Aktivitas script ini bersifat ilegal, dan semua risiko ditanggung sendiri. Script ini dibuat hanya untuk bahan uji coba dan pembelajaran author.
 
 Jika script ini membantu, pertimbangkan untuk memberikan **follow** di GitHub! 🌟
-
----
