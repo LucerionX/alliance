@@ -1,5 +1,3 @@
-Tentu, berikut README dengan tambahan emoji untuk membuatnya lebih menarik:
-
 ---
 
 # 🌐 Alliance Micro Node
@@ -36,8 +34,6 @@ Tentu, berikut README dengan tambahan emoji untuk membuatnya lebih menarik:
 ### ⚠️ Peringatan
 > **⚠️ Penting**: Aktivitas script ini bersifat ilegal, dan semua risiko ditanggung sendiri. Script ini dibuat hanya untuk bahan uji coba dan pembelajaran author.
 
-Jika script ini membantu, pertimbangkan untuk memberikan **follow** di GitHub! 🌟😊
+Jika script ini membantu, pertimbangkan untuk memberikan **follow** di GitHub! 🌟
 
 ---
-
-Semoga README ini terlihat lebih menarik!
