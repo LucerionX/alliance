@@ -1,6 +1,8 @@
 
 # 🌐 Alliance Micro Node
 
+Link BOT : t.me/AllianceMicroNodeBot/AMN?startapp=6667B3
+
 ### ✨ Fitur
 1. **✅ Auto Complete Task**: Menyelesaikan tugas secara otomatis.
 2. **👥 Support Multi Account**: Mendukung penggunaan beberapa akun.
