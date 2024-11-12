@@ -1,7 +1,7 @@
 
 # 🌐 Alliance Micro Node
 
-Link BOT : t.me/AllianceMicroNodeBot/AMN?startapp=6667B3
+[Link BOT](t.me/AllianceMicroNodeBot/AMN?startapp=6667B3)
 
 ### ✨ Fitur
 1. **✅ Auto Complete Task**: Menyelesaikan tugas secara otomatis.
